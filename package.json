@@ -14,7 +14,7 @@
     "url": "http://github.com/AvianFlu/ntwitter.git"
   }, 
   "dependencies": { 
-    "oauth": ">=0.8.4", 
+    "oauth": "https://github.com/nulltask/node-oauth/tarball/a4b096d355ef82e62766637ab8fb834682127841", 
     "cookies": "0.1.x",
     "keygrip": "0.1.x"
   }, 
